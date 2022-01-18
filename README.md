@@ -5,8 +5,11 @@
 
 This repository contains examples of using the package
 [funspotr](https://github.com/brshallo/funspotr) on a few github
-repositories. See “R/save-examples.R” for the code used to write files
-to the “data” folders.
+repositories (also see associated blog post [Identifying R Functions &
+Packages Used in GitHub
+Repos](https://www.bryanshalloway.com/2022/01/18/identifying-r-functions-packages-used-in-github-repos/).
+“R/save-examples.R” is used to create and write files to the “data”
+folders.
 
 Currently the data files are static files. However in the future I’d
 like to use github actions to (potentially) make some of the data files
