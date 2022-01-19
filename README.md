@@ -30,3 +30,9 @@ fs::dir_ls("data/funs")
 #> data/funs/jsilge-blog-funs-20220114.csv
 #> data/funs/r4ds-chapter-files-funs-20220117.csv
 ```
+
+These files were passed through `dplyr::distinct()` and posted in
+[DT](https://rstudio.github.io/DT/) tables in the
+[Examples](https://www.bryanshalloway.com/2022/01/18/identifying-r-functions-packages-used-in-github-repos/#examples)
+section of an accompanying blog post where links to the files on
+**google sheets** can also be found.
